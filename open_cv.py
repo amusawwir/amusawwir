@@ -18,6 +18,7 @@ cv2.imshow("image", img)
 # hold the screen until user close it.
 cv2.waitKey(0)
 
+#---#
 # It is for removing/deleting created GUI window from screen
 # and memory
 cv2.destroyAllWindows()
